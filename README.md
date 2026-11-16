@@ -2,8 +2,8 @@
   <!-- Fixed Maroon Header (Capsule Render) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Tohidul%20Islam&fontSize=70&fontColor=ffffff&animation=twinkling" alt="Tohidul Islam Header" width="100%" />
   
-  <!-- Subtitle -->
-  <h3 align="center">💻 CSE Student | 🤖 AI Explorer | 📊 Data Scientist</h3>
+  <!-- Subtitle Updated -->
+  <h3 align="center">💻 CSE Student | 🤖 AI/ML Explorer | 📊 Aspiring Data Scientist</h3>
   
   <br/>
   
@@ -55,7 +55,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
-<!-- Animated Thank You Footer -->
+<!-- Animated Stylish Thank You Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=footer&text=Thank%20You!&fontSize=70&fontColor=ffffff&animation=twinkling" alt="Thank You Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=footer&text=𝓣𝓱𝓪𝓷𝓴%20𝓨𝓸𝓾&fontSize=65&fontColor=ffffff&animation=twinkling" alt="Thank You Footer" width="100%" />
 </div>
