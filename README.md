@@ -12,13 +12,13 @@
 
   <br/><br/>
 
-  <!-- Animated Typing Text (ফিরিয়ে আনা হয়েছে) -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Data+Science+Explorer;Always+learning+new+tech!&center=true&width=500&height=50&color=00D4FF&vCenter=true&size=22&pause=1000" alt="Typing Animation" />
+  <!-- Animated Typing Text -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Tohidul+Islam;Machine+Learning+Enthusiast;Data+Science+Explorer;Always+learning+new+tech!&center=true&width=500&height=50&color=00D4FF&vCenter=true&size=22&pause=1000" alt="Typing Animation" />
 
   <br/><br/>
 
-  <!-- Coding GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Coding Animation" />
+  <!-- Permanent & Working Coding GIF -->
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding Animation" />
 </div>
 
 ---
@@ -53,4 +53,9 @@
   
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
+
+<!-- Animated Thank You Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=footer&text=Thank%20You!&fontSize=70&fontColor=ffffff&animation=twinkling" alt="Thank You Footer" width="100%" />
 </div>
