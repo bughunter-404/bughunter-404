@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Fixed -->
-  <img src="https://github.com/bughunter-404/bughunter-404/blob/main/header.svg?raw=true" alt="Tohidul Islam Header" />
+  <img src="./header.svg" alt="Tohidul Islam Header" width="100%" />
   
   <br/>
   
@@ -36,13 +36,10 @@
 
 ### 📊 GitHub Analytics
 
+<!-- Stats Link Fixed -->
 <div align="center">
-  <a href="https://github.com/bughunter-404">
-    <img src="https://github-readme-stats.vercel.app/api?username=bughunter-404&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff" width="48%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/bughunter-404">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bughunter-404&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff" width="48%" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=bughunter-404&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bughunter-404&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff" width="48%" alt="Top Languages" />
 </div>
 
 ---
