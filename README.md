@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Animated Header SVG -->
-  <img src="header.svg" alt="Tohidul Islam Header" />
+  <!-- Animated Header SVG (Raw Link) -->
+  <img src="https://raw.githubusercontent.com/bughunter-404/bughunter-404/main/header.svg" alt="Tohidul Islam Header" />
   
   <br/>
   
@@ -10,9 +10,9 @@
 
 <br/>
 
-<!-- Animated Typing Text -->
+<!-- Animated Typing Text (Fixed Server) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Data+Science+Explorer;CSE+Student;Always+learning+new+tech!&center=true&width=500&height=50&color=00D4FF&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Data+Science+Explorer;CSE+Student;Always+learning+new+tech!&center=true&width=500&height=50&color=00D4FF&vCenter=true&size=22&pause=1000" alt="Typing Animation">
 </div>
 
 <br/>
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Required Skills: Python, Java, C, C++, MySQL, VS Code, Linux, PyTorch, TensorFlow -->
+    <!-- Required Skills -->
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,vscode,linux,pytorch,tensorflow&perline=9" alt="Skills" />
   </a>
 </p>
@@ -62,7 +62,6 @@
   <p><i>"Data is the new oil, and machine learning is the combustion engine." 🚀</i></p>
   <p>I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.</p>
   
-  <!-- Social Links (Replace # with your actual profile links) -->
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
