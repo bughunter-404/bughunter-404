@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Header Image using Blob Raw -->
-  <img src="https://github.com/bughunter-404/bughunter-404/blob/main/header.svg?raw=true" alt="Tohidul Islam Header" width="100%" />
+  <!-- Animated Header SVG (Raw Link for Realtime Animation) -->
+  <img src="https://raw.githubusercontent.com/bughunter-404/bughunter-404/main/header.svg" alt="Tohidul Islam Header" width="100%" />
   
   <br/><br/>
   
@@ -30,15 +30,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bughunter-404&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&cache_seconds=1800" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bughunter-404&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&cache_seconds=1800" width="45%" alt="Top Languages" />
-</div>
-
----
-
 ### 🐍 My Contributions
 
 <div align="center">
@@ -57,6 +48,7 @@
   <p><i>"Data is the new oil, and machine learning is the combustion engine." 🚀</i></p>
   <p>I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.</p>
   
+  <!-- Email & LinkedIn (Don't forget to add your actual links here) -->
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
