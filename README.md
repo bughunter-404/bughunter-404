@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Header Fixed -->
-  <img src="./header.svg" alt="Tohidul Islam Header" width="100%" />
+  <!-- Header with cache bust -->
+  <img src="header.svg?v=1" alt="Tohidul Islam Header" width="100%" />
   
   <br/>
   
@@ -36,11 +36,11 @@
 
 ### 📊 GitHub Analytics
 
-<!-- Stats Link Fixed -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bughunter-404&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bughunter-404&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff" width="48%" alt="Top Languages" />
-</div>
+<!-- Stats with cache bust -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bughunter-404&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&v=1" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bughunter-404&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&v=1" width="48%" alt="Top Languages" />
+</p>
 
 ---
 
