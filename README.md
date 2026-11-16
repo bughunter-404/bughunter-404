@@ -1,14 +1,19 @@
 <div align="center">
-  <!-- Real-time Animated Header (Only Name) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tohidul%20Islam&fontSize=70&fontColor=ffffff&animation=twinkling" alt="Tohidul Islam Header" width="100%" />
+  <!-- Fixed Maroon Header (Capsule Render) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Tohidul%20Islam&fontSize=70&fontColor=ffffff&animation=twinkling" alt="Tohidul Islam Header" width="100%" />
   
-  <!-- Exact Subtitle from the second picture -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=💻+CSE+Student+%7C+🤖+AI+Explorer+%7C+📊+Data+Scientist&center=true&width=800&height=50&color=00D4FF&vCenter=true&size=20&pause=10000" alt="Subtitle" />
+  <!-- Subtitle -->
+  <h3 align="center">💻 CSE Student | 🤖 AI Explorer | 📊 Data Scientist</h3>
   
   <br/>
   
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=bughunter-404&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+  <br/><br/>
+
+  <!-- Animated Typing Text (ফিরিয়ে আনা হয়েছে) -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Data+Science+Explorer;Always+learning+new+tech!&center=true&width=500&height=50&color=00D4FF&vCenter=true&size=22&pause=1000" alt="Typing Animation" />
 
   <br/><br/>
 
