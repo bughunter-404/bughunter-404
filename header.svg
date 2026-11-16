@@ -1,1 +1,42 @@
+<svg width="800" height="250" viewBox="0 0 800 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* Text Styles */
+    .title { font: bold 60px 'Segoe UI', Arial, sans-serif; fill: #ffffff; text-anchor: middle; dominant-baseline: middle; letter-spacing: 2px; text-shadow: 2px 4px 10px rgba(0,212,255,0.4); }
+    .subtitle { font: 500 18px 'Fira Code', 'Courier New', monospace; fill: #00D4FF; text-anchor: middle; dominant-baseline: middle; letter-spacing: 1px; }
+    
+    /* Floating Symbols Animation */
+    .symbol { font: bold 40px 'Fira Code', monospace; fill: #00D4FF; opacity: 0.1; animation: float 8s infinite linear; }
+    .sym1 { animation-duration: 12s; }
+    .sym2 { animation-duration: 15s; animation-direction: reverse; fill: #ff007f; }
+    .sym3 { animation-duration: 10s; }
+    
+    @keyframes float {
+      0% { transform: translateY(0px) rotate(0deg); opacity: 0.1; }
+      50% { transform: translateY(-30px) rotate(180deg); opacity: 0.4; }
+      100% { transform: translateY(0px) rotate(360deg); opacity: 0.1; }
+    }
 
+    /* Neon Line Animation */
+    .glow-line {
+      stroke: #00D4FF; stroke-width: 2; opacity: 0.6;
+      stroke-dasharray: 300; stroke-dashoffset: 300;
+      animation: draw 4s infinite linear alternate;
+    }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+  </style>
+
+  <!-- Animated Background Symbols -->
+  <text x="120" y="200" class="symbol sym1"></></text>
+  <text x="700" y="60" class="symbol sym2">{ }</text>
+  <text x="150" y="50" class="symbol sym3">#</text>
+  <text x="650" y="210" class="symbol sym1">()</text>
+  <text x="400" y="40" class="symbol sym2">~</text>
+
+  <!-- Animated Neon Lines -->
+  <line x1="150" y1="230" x2="650" y2="230" class="glow-line" />
+  <line x1="250" y1="20" x2="550" y2="20" class="glow-line" stroke="#ff007f" />
+
+  <!-- Main Text -->
+  <text x="400" y="110" class="title">Tohidul Islam</text>
+  <text x="400" y="170" class="subtitle">💻 CSE Student | 🤖 AI Explorer | 📊 Data Scientist</text>
+</svg>
